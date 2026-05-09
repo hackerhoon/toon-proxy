@@ -58,3 +58,8 @@ In your MCP client config (e.g. Claude Desktop `claude_desktop_config.json`):
 
 - Python 3.10+
 - [`python-toon`](https://github.com/hackerhoon/python-toon)
+
+## Contributors
+
+- [@hackerhoon](https://github.com/hackerhoon)
+- [Claude Opus 4.7](https://www.anthropic.com/claude) — AI pair programmer
